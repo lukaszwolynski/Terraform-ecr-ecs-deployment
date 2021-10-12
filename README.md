@@ -5,4 +5,5 @@ Dockerize a simple flask app then push a docker image to private Elastic Contain
 You will need to change subnets and vpc ids in variables.tf file. That is the only required action.
 
 To create infrastracutre run: python build_infrastracture.py
+
 To destroy: build_infrastracture.py
